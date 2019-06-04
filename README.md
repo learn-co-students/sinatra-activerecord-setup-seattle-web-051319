@@ -34,6 +34,7 @@ Into our development group, we'll add two other gems: `sqlite3` and `tux`. `sqli
   gem 'sinatra'
   gem 'activerecord', '4.2.5'
   gem 'sinatra-activerecord'
+  gem 'rake'
   gem 'thin'
   gem 'require_all'
 
